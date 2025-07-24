@@ -1,4 +1,13 @@
 # Virtual Try-On and Fashion Recommendation System
+<p align="center">
+  <img src="composite_images_semifinal/composite_04269_12171_00.jpg" width="250"/>
+  <img src="composite_images_semifinal/composite_02278_11237_00.jpg" width="250"/>
+  <img src="composite_images_semifinal/composite_03429_07276_00.jpg" width="250"/>
+   <img src="composite_images_semifinal/composite_07212_11330_00.jpg" width="250"/>
+</p>
+
+<p align="center"><i>Virtual Try-On Results (Generated via VITON-HD)</i></p>
+
 
 This project presents a sophisticated system that integrates a high-resolution virtual try-on (VTON) model with an intelligent, multi-layered fashion recommendation engine. The system allows users to visualize themselves in new clothing items and receive personalized, context-aware fashion recommendations. The core of the project leverages the state-of-the-art **VITON-HD** model for virtual try-on and a novel hybrid architecture combining **CLIP** embeddings with an **LLM reasoning layer** for recommendations.
 
